@@ -1,2 +1,13 @@
-Sample template to get anyone started with a rails app + bootstrap using the boostrap sass gem.
-Basic user login/log out functions implemented
+A basic Ruby on Rails application including Bootstrap for the front end. Primary use is for applications like social networks 
+where you will find a user/ follower relationship with the ability to show news feeds and selective posts.
+
+ - Basic login and logout functionality has been implemented.
+ - Ready and can be used with Postgres SQL or MySQL backends
+ - Asset pipeline configured
+ _ Sessions implemented
+ _ A "News Feed" interface implemented
+ _ A web interface to "follow" other users
+ - A web administration for creating and deleting users
+ 
+ 
+ 
